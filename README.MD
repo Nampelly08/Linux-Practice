@@ -1,10 +1,10 @@
-Linux Practice
+# Linux Practice
 
-About
+## About
 
 I created this repository to keep track of the Linux commands and concepts I am learning as part of my cybersecurity journey. I will continue updating it as I learn new topics.
 
- Commands I Practiced:
+# Commands I Practiced:
 * pwd
 * ls
 * cd
@@ -28,7 +28,7 @@ I created this repository to keep track of the Linux commands and concepts I am 
 * addgroup
 
 
- What I Learned
+# What I Learned
 
 * Navigating directories
 * Creating and managing files
@@ -39,11 +39,11 @@ I created this repository to keep track of the Linux commands and concepts I am 
 * File transfering using network protocols
 * Using Linux in Kali Linux
 
-My Goal
+# My Goal
 
 My goal is to improve my Linux skills and build a strong foundation for cybersecurity and ethical hacking.
 
-Future Updates
+# Future Updates
 
 * SSH
 * Wireshark
